@@ -1,5 +1,5 @@
 # GD-Editor-hacks
-Editor hacks mod for Geometry Dash
+Universal editor hacks (auto enable!) mod for Geometry Dash
 
 <ol>
 <li><a href=".">Slider limit bypass</a></li>
