@@ -6,7 +6,6 @@
 
 DWORD base = (DWORD)GetModuleHandleA(0);
 
-// copy paste god
 bool write_bytes(
     const std::uintptr_t address,
     std::vector<uint8_t> const& bytes)
