@@ -1,5 +1,5 @@
 # GD-Editor-hacks
-Editor hacks .dll mod for Geometry Dash 
+Editor hacks mod for Geometry Dash
 
 <ol>
 <li><a href=".">Slider limit bypass</a></li>
@@ -10,4 +10,7 @@ Editor hacks .dll mod for Geometry Dash
 <li><a href=".">Object Bypass</a></li>
 <li><a href=".">Text Length</a></li>
 <li><a href=".">Character Filter</a></li>
+<li><a href=".">Default Song Bypass</a></li>
 </ol>
+
+<h1><a href="https://github.com/user95401/GD-Editor-hacks/releases/download/Download/GD.Editor.hacks.by.user666.zip">Download</a></h1>
