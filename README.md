@@ -1,6 +1,6 @@
 # GD-Editor-hacks
 Universal editor hacks (auto enable!) mod for Geometry Dash
-
+(byte writer)
 <ol>
 <li><a href="https://github.com/user95401/GD-Editor-hacks">Slider limit bypass</a></li>
 <li><a href="https://github.com/user95401/GD-Editor-hacks">Copy Hack</a></li>
