@@ -2,15 +2,15 @@
 Universal editor hacks (auto enable!) mod for Geometry Dash
 (byte writer)
 <ol>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Slider limit bypass</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Copy Hack</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Level Edit</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Custom Object Bypass</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Verify Hack</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Object Bypass</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Text Length</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Character Filter</a></li>
-<li><a href="https://github.com/user95401/GD-Editor-hacks">Default Song Bypass</a></li>
+<li><ab>Slider limit bypass</a></li>
+<li><ab>Copy Hack</a></li>
+<li><ab>Level Edit</a></li>
+<li><ab>Custom Object Bypass</a></li>
+<li><ab>Verify Hack</a></li>
+<li><ab>Object Bypass</a></li>
+<li><ab>Text Length</a></li>
+<li><ab>Character Filter</a></li>
+<li><ab>Default Song Bypass</a></li>
 </ol>
 
 <h2><a href="https://github.com/user95401/GD-Editor-hacks/releases/download/Download/GD.Editor.hacks.by.user666.zip">Download</a></h2>
