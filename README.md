@@ -12,5 +12,3 @@ Universal editor hacks (auto enable!) mod for Geometry Dash
 <li><ab>Character Filter</a></li>
 <li><ab>Default Song Bypass</a></li>
 </ol>
-
-<h2><a href="https://github.com/user95401/GD-Editor-hacks/releases/download/Download/GD.Editor.hacks.by.user666.zip">Download</a></h2>
